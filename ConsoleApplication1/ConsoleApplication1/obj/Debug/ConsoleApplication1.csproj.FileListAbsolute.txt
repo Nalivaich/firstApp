@@ -1,0 +1,6 @@
+D:\Git\firstApp\firstApp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Git\firstApp\firstApp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Git\firstApp\firstApp\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Git\firstApp\firstApp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Git\firstApp\firstApp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Git\firstApp\firstApp\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
